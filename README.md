@@ -1,4 +1,7 @@
-# Obsidian Sample Plugin
+# Colored Links
+
+## DEVELOPMENT IS ON HIATUS
+There is no API for Graph View in Obsidian. Until the devs implement one, the links will remain dull and lifeless :(
 
 This is a WIP community plugin for Obsidian (https://obsidian.md).
 
